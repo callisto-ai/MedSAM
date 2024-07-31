@@ -1,3 +1,7 @@
+# custom
+output/
+notebooks/
+
 *.pyc
 # Project specific
 *.DS_Store

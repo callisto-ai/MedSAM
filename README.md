@@ -27,3 +27,6 @@ Segment other images with the following flags
 -o output path
 --box bounding box of the segmentation target
 ```
+
+### todo
+- [ ] スクリプトで呼び出して、タスクを待機させておけるクラスを実装
